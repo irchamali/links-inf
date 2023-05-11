@@ -15,10 +15,10 @@ st.info('Program Studi Teknik Informatika Universitas Nahdlatul Ulama Indonesia 
 
 icon_size = 20
 
-# st_button('linkedin', 'https://www.linkedin.com/in/ircham-ali/', 'Follow me on LinkedIn', icon_size)
+st_button('web', 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQlPrhccpFftRaI1ynIWWkSqmMaC3BBgLSE38Tf1Y9VPemebzOEpPFYmm6BINDdu52HZHe9LHUAx_TN/pubhtml?gid=1583299384&single=true', 'Publikasi Mahasiswa TI', icon_size)
 st_button('youtube', 'https://youtu.be/zKZt0GUluaI', 'Podcast x UnusiaTv', icon_size)
 st_button('youtube', 'https://www.youtube.com/@unusialabs', 'YouTube Channel', icon_size)
-st_button('medium', 'https://pmb.unusia.ac.id/', 'Yuk Join TI UNUSIA!', icon_size)
+st_button('pmb', 'https://pmb.unusia.ac.id/', 'Yuk Join TI UNUSIA!', icon_size)
 st_button('facebook', 'https://facebook.com/teknikinformatikaunusia/', 'Facebook Laman', icon_size)
 st_button('instagram', 'https://instagram.com/teknikinformatikaunusia/', 'Liat Instagram', icon_size)
 st_button('github', 'https://github.com/unusialabs/', 'Repo GitHub', icon_size)
